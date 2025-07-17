@@ -2,8 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25-orange)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name)
+![Last Commit](https://img.shields.io/github/last-commit/LuizaaElena/Stack-Overflow-Survey-2024-Analysis-and-ML)
 
 
 This Streamlit application offers an interactive, visual, and intelligent exploration of the **Stack Overflow Developer Survey 2024** dataset.  
