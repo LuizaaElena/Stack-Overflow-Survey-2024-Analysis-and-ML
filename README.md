@@ -136,6 +136,6 @@ Elena-Luiza JALEA
 🏫 Institution: Bucharest University of Economic Studies <br/>
 📅 Year: 2025
 
-## 📜 License
+## 📜 Academic Use
 This project is for educational and non-commercial purposes.
-Original data from: Stack Overflow Survey
+Original data from: [Stack Overflow Survey](https://survey.stackoverflow.co/)
