@@ -13,7 +13,7 @@ Built as part of a master’s dissertation project, it integrates data analysis 
 ## 🔗 Live demo
 
 You can try the app live here:  
-👉 [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+👉 [Stack Overflow Developer Survey 2024 Analysis](https://stack-overflow-survey-2024-analysis-and-ml.streamlit.app/)
 
 > ⚠️ Note: The app may take a few seconds to load the first time, especially if models or data are being loaded.
 
