@@ -1,7 +1,7 @@
 # 💡 Stack Overflow Developer Survey 2024 – Interactive Analysis & ML Predictions
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1  -orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1-orange)
 ![Last Commit](https://img.shields.io/github/last-commit/LuizaaElena/Stack-Overflow-Survey-2024-Analysis-and-ML)
 
 
@@ -10,6 +10,14 @@ Built as part of a master’s dissertation project, it integrates data analysis 
 
 ---
 
+## 🔗 Live demo
+
+You can try the app live here:  
+👉 [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+
+> ⚠️ Note: The app may take a few seconds to load the first time, especially if models or data are being loaded.
+
+---
 ## 📸 Preview
 
 ![Home Page Screenshot](images/Home-page.png)
