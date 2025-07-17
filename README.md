@@ -1,7 +1,7 @@
 # 💡 Stack Overflow Developer Survey 2024 – Interactive Analysis & ML Predictions
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.25-orange)
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.45.1  -orange)
 ![Last Commit](https://img.shields.io/github/last-commit/LuizaaElena/Stack-Overflow-Survey-2024-Analysis-and-ML)
 
 
@@ -48,7 +48,34 @@ Receive personalized suggestions of:
 
 ---
 
-## 🛠️ How to Run Locally
+## 🛠️ Technology Stack
+### Programming Language
+- Python 3.13
+
+### Web Framework
+- Streamlit 
+
+### Data Processing and Vizualization
+- Pandas
+- NumPy 
+- Altair
+- Matplotlib    
+
+### Machine Learning
+- CatBoost Regressor – used for salary prediction (regression model)
+- MLPClassifier (Neural Network) – used for technology recommendation (multi-label classification)
+- Scikit-learn
+
+### Model Persistence and Loading
+- joblib – loading the CatBoost model and metadata
+- pickle – saving and loading ML models, encoders, scalers, column names, dropdown options, and model comparison results
+
+###  UI and Styling
+- Custom CSS injected via ```st.markdown```
+- Inline HTML
+
+---
+## 🚀 How to Run Locally
 
 ### 1. Clone this repository
 
@@ -71,7 +98,7 @@ streamlit run Home.py
 ```
 
 ## 📁 Project Structure
-
+```
 ├── data/
 │   └── variabile_preprocesate.csv         ← Preprocessed survey dataset
 ├── images/
@@ -86,7 +113,7 @@ streamlit run Home.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## 📌 Notes
 
 - All models are trained using the Stack Overflow Survey 2024 dataset.
@@ -96,8 +123,10 @@ streamlit run Home.py
 
 ## 👩🏻‍🎓 Author
 Elena-Luiza JALEA
-Master’s Dissertation, 2025
-Database Support for Business – University of Economic Studies, Bucharest
+
+📧 Email: luizajalea@email.com <br/>
+🏫 Institution: Bucharest University of Economic Studies <br/>
+📅 Year: 2025
 
 ## 📜 License
 This project is for educational and non-commercial purposes.
